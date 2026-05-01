@@ -1,0 +1,58 @@
+{
+  "fullName": "As-Sayyid Ahmad bin Muhammad bin Ramadhan bin Manshur bin Muhammad al-Marzuqi al-Hasani al-Maliki (السيد أحمد بن محمد بن رمضان بن منصور بن محمد المرزوقي الحسني المالكي)",
+  "titles": "Mufti Al-Malikiyah bi Makkah, Syaikhul Qurra', Al-Allamah Al-Faqih, Al-Musnid",
+  "birthDeath": "1205 H - 1281 H (1791 M - 1864 M)",
+  "intro": "Seorang ulama besar dari mazhab Maliki yang menjabat sebagai Mufti di Makkah Al-Mukarramah. Beliau merupakan keturunan Rasulullah SAW (Al-Hasani) dan dikenal secara global melalui karya akidahnya yang monumental, Aqidatul Awam, yang menjadi kurikulum dasar di hampir seluruh pesantren dan madrasah dunia Islam.",
+  "teachers": [
+    "Sayyid Ahmad al-Athar",
+    "Syaikh Ibrahim al-Bajuri (Pengarang Tuhfatul Murid)",
+    "Syaikh Muhammad al-Maghribi",
+    "Syaikh Ibrahim al-Ubaidi",
+    "Syaikh Ahmad al-Marzuqi (Paman beliau)"
+  ],
+  "students": [
+    "Sayyid Ahmad Zaini Dahlan (Mufti Syafi'iyah)",
+    "Syaikh Nawawi al-Bantani (Ulama besar Nusantara)",
+    "Syaikh Saleh bin Muhammad as-Syamrawi",
+    "Sayyid Muhammad bin Ahmad al-Ahdal"
+  ],
+  "works": [
+    "Aqidatul Awam (Nazam Tauhid)",
+    "Tahshil Nail al-Maram (Syarh Aqidatul Awam)",
+    "Al-Fawaid al-Marzuqiyah (Syarh Al-Jazariyah dalam Ilmu Tajwid)",
+    "Nurul Yaqin fi Syarh Aqidatul Awam",
+    "Syarh Mukhtashar al-Bukhari"
+  ],
+  "timeline": [
+    {
+      "year": "1205 H",
+      "event": "Lahir di Mesir dan tumbuh dalam asuhan keluarga yang religius serta menjaga nasab mulia."
+    },
+    {
+      "year": "1258 H",
+      "event": "Menulis kitab Aqidatul Awam setelah mendapatkan ilham (ru'ya shadiqah) bertemu Rasulullah SAW dalam mimpi."
+    },
+    {
+      "year": "1281 H",
+      "event": "Wafat di Makkah Al-Mukarramah setelah mengabdikan hidupnya mengajar di Masjidil Haram."
+    }
+  ],
+  "narrativeSections": [
+    {
+      "title": "Kelahiran & Masa Kecil",
+      "content": "Beliau dilahirkan di Mesir pada tahun 1205 H. Ayahnya, Sayyid Muhammad bin Ramadhan, adalah seorang yang saleh. Beliau tumbuh dalam lingkungan yang sangat mencintai ilmu dan Al-Qur'an, kemudian pindah ke Makkah dan menetap di sana untuk memperdalam ilmu agama di bawah bimbingan para ulama terkemuka Hijaz."
+    },
+    {
+      "title": "Rihlah Ilmiah (Pendidikan & Guru)",
+      "content": "Pendidikan beliau dimulai dengan menghafal Al-Qur'an dan dasar-dasar ilmu syariat. Beliau dikenal sangat tekun dalam ilmu Qira'at dan Fikih Maliki. Salah satu guru beliau yang paling berpengaruh adalah Sayyid Ahmad al-Athar. Keahliannya dalam ilmu sanad dan qira'at membuatnya diakui sebagai Syaikhul Qurra' di Makkah pada zamannya."
+    },
+    {
+      "title": "Karya & Peninggalan",
+      "content": "Karya beliau yang paling fenomenal adalah Nazam Aqidatul Awam. Kitab ini unik karena ditulis berdasarkan instruksi Nabi SAW yang datang dalam mimpi beliau sebanyak dua kali. Selain itu, beliau menulis syarah untuk kitab tersebut guna memperjelas poin-poin teologis bagi kaum awam. Kitab-kitabnya hingga kini tetap menjadi rujukan utama dalam pengajaran Akidah Asy'ariyah."
+    },
+    {
+      "title": "Wafat & Makam",
+      "content": "As-Sayyid Ahmad al-Marzuqi wafat di kota Makkah pada tahun 1281 H. Jasad beliau disemayamkan di pemakaman Jannatul Ma'la, berdampingan dengan makam para tokoh besar sejarah Islam lainnya. Pengaruh keilmuannya terus mengalir melalui sanad-sanad yang dipegang oleh ulama-ulama besar Nusantara dan Timur Tengah."
+    }
+  ]
+}
