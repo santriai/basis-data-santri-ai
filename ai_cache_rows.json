@@ -1,5 +1,140 @@
 [
   {
+    "featureName": "AI Generation",
+    "query": "\n          Sebutkan 20-50 Kitab Kuning populer unt",
+    "result": [
+      {
+        "name": "Aqidatul Awam",
+        "author": "Syeikh Ahmad al-Marzuqi al-Maliki",
+        "desc": "Kitab nadhom populer yang berisi dasar-dasar ilmu tauhid dan sejarah ringkas Nabi bagi tingkat pemula."
+      },
+      {
+        "name": "Tijan ad-Darari",
+        "author": "Syeikh Ibrahim al-Bajuri",
+        "desc": "Syarah ringkas terhadap risalah Syeikh Ibrahim al-Laqqani yang membahas sifat wajib, mustahil, dan jaiz bagi Allah dan Rasul."
+      },
+      {
+        "name": "Kifayatul Awam",
+        "author": "Syeikh Muhammad al-Fudholi",
+        "desc": "Kitab yang menjelaskan dalil-dalil aqli dan naqli untuk menguatkan pemahaman sifat dua puluh."
+      },
+      {
+        "name": "Jauharatut Tauhid",
+        "author": "Syeikh Ibrahim al-Laqqani",
+        "desc": "Nadhom monumental yang mencakup seluruh pembahasan teologi Ahlussunnah wal Jama'ah secara sistematis."
+      },
+      {
+        "name": "Tuhfatul Murid",
+        "author": "Syeikh Ibrahim al-Bajuri",
+        "desc": "Syarah luas dan mendalam atas kitab Jauharatut Tauhid yang menjadi rujukan utama santri tingkat menengah."
+      },
+      {
+        "name": "Ummul Barahin",
+        "author": "Syeikh Muhammad bin Yusuf al-Sanusi",
+        "desc": "Kitab induk teologi Asy'ariyah yang juga dikenal dengan nama Matan al-Sanusiyyah."
+      },
+      {
+        "name": "Jawahirul Kalamiyah",
+        "author": "Syeikh Thahir bin Shaleh al-Jazairi",
+        "desc": "Penjelasan akidah Islam dalam bentuk tanya jawab yang dirancang untuk memudahkan pelajar memahami prinsip iman."
+      },
+      {
+        "name": "Nuruz Zalam",
+        "author": "Syeikh Nawawi al-Bantani",
+        "desc": "Syarah yang sangat populer di Nusantara atas kitab Aqidatul Awam dengan penjelasan yang detail."
+      },
+      {
+        "name": "Fathul Majid",
+        "author": "Syeikh Nawawi al-Bantani",
+        "desc": "Syarah atas kitab ad-Durratul Farid yang membahas poin-poin penting dalam ilmu tauhid."
+      },
+      {
+        "name": "Al-Iqtisad fil I'tiqad",
+        "author": "Imam al-Ghazali",
+        "desc": "Kitab teologi mendalam yang menekankan pada jalan tengah dalam mempertahankan akidah Islam."
+      },
+      {
+        "name": "Risalah Ahlussunnah wal Jama'ah",
+        "author": "KH. Hasyim Asy'ari",
+        "desc": "Karya pendiri NU yang merumuskan prinsip akidah Aswaja di tengah kemunculan berbagai pemahaman baru di Indonesia."
+      },
+      {
+        "name": "Al-Aqidah ath-Thahawiyyah",
+        "author": "Imam Abu Ja'far ath-Thahawi",
+        "desc": "Matan akidah klasik yang merangkum poin-poin kesepakatan ulama Salaf dan Khalaf dalam urusan iman."
+      },
+      {
+        "name": "Al-Kharidah al-Bahiyyah",
+        "author": "Syeikh Ahmad al-Dardir",
+        "desc": "Nadhom akidah yang berfokus pada tauhid sifat dua puluh dan prinsip-prinsip tasawuf dasar."
+      },
+      {
+        "name": "Qathrul Ghais",
+        "author": "Syeikh Nawawi al-Bantani",
+        "desc": "Syarah atas masalah-masalah dasar iman yang disusun oleh Imam Abu Laits as-Samarqandi."
+      },
+      {
+        "name": "Bad'ul Amali",
+        "author": "Syeikh Sirajuddin al-Ushi",
+        "desc": "Nadhom akidah klasik yang menekankan pada kemurnian tauhid dan bantahan terhadap kelompok yang menyimpang."
+      },
+      {
+        "name": "Al-Ibanah 'an Ushulid Diyanah",
+        "author": "Imam Abul Hasan al-Asy'ari",
+        "desc": "Karya fundamental dari imam madzhab Asy'ariyah dalam menjelaskan metodologi teologi Ahlussunnah."
+      },
+      {
+        "name": "Mafahim Yajibu an Tushahhah",
+        "author": "Sayyid Muhammad bin Alawi al-Maliki",
+        "desc": "Kitab kontemporer yang meluruskan kesalahpahaman dalam masalah tawasul, tabarruk, dan akidah lainnya."
+      },
+      {
+        "name": "Hasyiyah ad-Dasuqi 'ala Ummul Barahin",
+        "author": "Syeikh Muhammad ad-Dasuqi",
+        "desc": "Komentar sangat mendalam dan teknis atas kitab Ummul Barahin karya Imam al-Sanusi."
+      },
+      {
+        "name": "Tanwirul Qulub",
+        "author": "Syeikh Muhammad Amin al-Kurdi",
+        "desc": "Kitab komprehensif yang menggabungkan pembahasan akidah, fiqih Syafi'i, dan tasawuf."
+      },
+      {
+        "name": "Al-Luma'",
+        "author": "Imam Abul Hasan al-Asy'ari",
+        "desc": "Risalah yang menggunakan logika rasional dalam mempertahankan prinsip-prinsip dasar ketuhanan."
+      },
+      {
+        "name": "Bahjatul Wasail",
+        "author": "Syeikh Nawawi al-Bantani",
+        "desc": "Syarah atas Risalah al-Jami'ah yang merangkum kewajiban tauhid dan ibadah bagi setiap muslim."
+      },
+      {
+        "name": "Qawaidul 'Aqaid",
+        "author": "Imam al-Ghazali",
+        "desc": "Bagian dari Ihya Ulumuddin yang khusus membahas pondasi keyakinan dan rukun iman."
+      },
+      {
+        "name": "Ad-Durratul Farid",
+        "author": "Syeikh Ahmad ad-Dahlawi",
+        "desc": "Matan singkat tentang tauhid yang sering dipelajari sebelum memasuki kitab-kitab syarah yang lebih besar."
+      },
+      {
+        "name": "As-Sawa'iqul Muhriqah",
+        "author": "Ibnu Hajar al-Haitami",
+        "desc": "Kitab yang membela kedudukan sahabat dan Ahlul Bait serta memperkuat akidah politik Sunni."
+      },
+      {
+        "name": "Husunul Hamidiyyah",
+        "author": "Syeikh Husain Afandi al-Jisr",
+        "desc": "Kitab yang membahas pembelaan akidah Islam terhadap tantangan filsafat dan sains modern pada masanya."
+      }
+    ],
+    "type": "json_gen",
+    "created_at": "2026-05-03T18:12:37.650Z",
+    "id": "4cead1a4-432d-48c3-a938-3b7116a9414a",
+    "username": "AI Santri"
+  },
+  {
     "prompt_hash": "h715934932",
     "prompt_text": "kitab_analysis:Muqaddimah (Basmalah, Hamdalah, dan Shalawat) - Aqidatul Awam:Aqidatul Awam",
     "response_json": {
@@ -1810,14 +1945,5 @@
     "model": "gemini-2.5-flash-preview-tts",
     "created_at": "2026-01-20 12:36:56.128078+00",
     "id": "2421"
-  },
-  {
-    "prompt_hash": "h109529654",
-    "prompt_text": "kitab:bertindaklah sebagai ahli kitab kuning dan ulama yang mendalam ilmunya. analisis pertanyaan/topik berikut: \"majmu' syarif\"\n\nsajikan jawaban dalam format json valid (tanpa markdown ```) dengan struktur:\n{\n  \"title\": \"judul topik/bab yang relevan (singkat padat)\",\n  \"summary\": \"ringkasan inti dari penjelasan (1-2 kalimat)\",\n  \"points\": [\"poin utama 1\", \"poin utama 2\", \"poin utama 3\", \"dst...\"],\n  \"analysis\": \"penjelasan mendalam dan komprehensif (paragraf panjang, boleh ada line break)\",\n  \"dalil\": \"teks arab/ibarah kitab yang relevan (jika ada, jika tidak kosongkan)\",\n  \"source\": \"nama kitab / referensi rujukan\"\n}",
-    "response_json": "{\"text\":\"{\\n  \\\"title\\\": \\\"Analisis Kedudukan Kitab Majmu' Syarif dalam Tradisi Amaliyah Islam\\\",\\n  \\\"summary\\\": \\\"Majmu' Syarif adalah kitab kompilasi (majmu') yang menghimpun berbagai surah pilihan, doa-doa ma'tsur, dan zikir harian yang berfungsi sebagai panduan praktis spiritual bagi umat Islam.\\\",\\n  \\\"points\\\": [\\n    \\\"Kompilasi surah-surah Al-Qur'an dengan fadhilah khusus seperti Yasin, Al-Waqi'ah, dan Al-Mulk.\\\",\\n    \\\"Himpunan doa dan zikir yang bersumber dari Al-Qur'an, Hadis, serta ijtihad para ulama salaf.\\\",\\n    \\\"Panduan praktis ibadah harian, perawatan jenazah, tahlil, dan doa dalam berbagai kondisi (doa Kanzul Arsy, Akasyah, dll).\\\",\\n    \\\"Berperan sebagai instrumen pelestarian tradisi 'Fadhailul A'mal' di kalangan masyarakat Nusantara.\\\",\\n    \\\"Mencakup berbagai selawat Nabi yang memiliki sanad dan khasiat spiritual tertentu.\\\"\\n  ],\\n  \\\"analysis\\\": \\\"Secara epistemologi dalam diskursus Kitab Kuning, Majmu' Syarif tidak dikategorikan sebagai kitab hukum (fiqh) atau akidah (tauhid) yang bersifat argumentatif, melainkan sebagai kitab 'Amaliyah' atau 'Adzkar'. Kitab ini merupakan bentuk kodifikasi kreatif yang menggabungkan berbagai unsur esensial dalam kehidupan beragama seorang Muslim. Penanggung jawab penyusunannya biasanya merujuk pada karya-karya besar ulama terdahulu seperti Al-Adzkar karya Imam Nawawi, Al-Hishnul Hashin karya Imam Al-Jazari, hingga kitab-kitab mujarobat. \\\\n\\\\nKeberadaan Majmu' Syarif sangat krusial dalam membentuk ritme spiritual masyarakat, di mana kitab ini menyediakan akses cepat bagi orang awam untuk mengamalkan zikir-zikir yang memiliki landasan keutamaan (Fadhail). Dari sudut pandang tasawuf, pengulangan doa dan surah yang ada di dalamnya bertujuan untuk 'riyadhah' (latihan spiritual) dan 'tazkiyatun nafs' (penyucian jiwa). Meskipun beberapa doa di dalamnya memiliki perdebatan di kalangan ulama hadis terkait derajat kesahihannya, para ulama Ahlussunnah wal Jama'ah secara umum membolehkan pengamalannya dalam kerangka 'Fadhailul A'mal' selama tidak bertentangan dengan prinsip dasar syariat. Kitab ini juga merefleksikan identitas Islam Nusantara yang kental dengan tradisi tawasul, selawat, dan penghormatan terhadap warisan spiritual para wali dan ulama.\\\",\\n  \\\"dalil\\\": \\\"فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ (البقرة: ١٥٢). وعن النبي صلى الله عليه وسلم قال: مَنْ قَرَأَ سُورَةَ الْوَاقِعَةِ كُلَّ لَيْلَةٍ لَمْ تُصِبْهُ فَاقَةٌ أَبَدًا (رواه البيهقي في شعب الإيمان).\\\",\\n  \\\"source\\\": \\\"Kitab Al-Adzkar Al-Muntakhabah min Kalami Sayyidil Abrar (Imam Nawawi) dan Tradisi Kompilasi Kitab Majmu' di Pesantren.\\\"\\n}\"}",
-    "type": "religious_query",
-    "model": "gemini-3-flash-preview",
-    "created_at": "2026-01-05 07:16:12.246302+00",
-    "id": "1878"
   }
 ]
