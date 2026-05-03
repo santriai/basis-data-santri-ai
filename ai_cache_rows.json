@@ -4,6 +4,141 @@
     "query": "\n          Sebutkan 20-50 Kitab Kuning populer unt",
     "result": [
       {
+        "name": "Ratib al-Haddad",
+        "author": "Al-Habib Abdullah bin Alwi al-Haddad",
+        "desc": "Kumpulan zikir dan doa yang sangat populer di dunia Islam untuk perlindungan diri dan ketenangan hati."
+      },
+      {
+        "name": "Ratib al-Attas",
+        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
+        "desc": "Zikir yang disusun untuk memperkuat iman dan menjaga keselamatan dari segala bala dan musibah."
+      },
+      {
+        "name": "Ratib al-Aydarus (Syamsi Syumus)",
+        "author": "Al-Habib Abdullah bin Abu Bakar al-Aydarus",
+        "desc": "Ratib yang dikenal sebagai 'Matahari dari segala Matahari' untuk menerangi hati dengan cahaya makrifat."
+      },
+      {
+        "name": "Ratib al-Akbar",
+        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
+        "desc": "Versi panjang dari zikir-zikir pilihan yang disusun untuk mendekatkan diri kepada Allah secara intensif."
+      },
+      {
+        "name": "Ratib al-Habsyi",
+        "author": "Al-Habib Ali bin Muhammad al-Habsyi",
+        "desc": "Rangkaian zikir yang disusun oleh penyusun Maulid Simtudduror untuk mempererat hubungan dengan Rasulullah."
+      },
+      {
+        "name": "Ratib al-Sakran",
+        "author": "Al-Habib Ali bin Abu Bakar al-Sakran",
+        "desc": "Zikir yang disusun sebagai benteng pertahanan spiritual dari gangguan jin dan manusia."
+      },
+      {
+        "name": "Ratib al-Jailani",
+        "author": "Syekh Abdul Qadir al-Jailani",
+        "desc": "Kumpulan wirid yang dinisbatkan kepada Sultanul Auliya untuk meraih keberkahan hidup."
+      },
+      {
+        "name": "Ratib al-Samman",
+        "author": "Syekh Muhammad bin Abdul Karim al-Samman",
+        "desc": "Ratib yang populer di kalangan tarekat Sammaniyah, berisi zikir keras dan madah pujian."
+      },
+      {
+        "name": "Ratib al-Khalidiyah",
+        "author": "Syekh Khalid al-Baghdadi",
+        "desc": "Susunan zikir yang menjadi amalan rutin para pengikut tarekat Naqsyabandiyah Khalidiyah."
+      },
+      {
+        "name": "Ratib al-Rifa'i",
+        "author": "Syekh Ahmad al-Rifa'i",
+        "desc": "Zikir yang menekankan pada kerendahan hati dan ketundukan mutlak di hadapan Allah SWT."
+      },
+      {
+        "name": "Ratib al-Badawi",
+        "author": "Syekh Ahmad al-Badawi",
+        "desc": "Wirid yang disusun oleh pendiri tarekat Ahmadiyah Badawiyah untuk kekuatan ruhani."
+      },
+      {
+        "name": "Ratib al-Dasuqi",
+        "author": "Syekh Ibrahim al-Dasuqi",
+        "desc": "Kumpulan doa dan zikir yang mengandung rahasia-rahasia ketuhanan dari tokoh sufi besar Mesir."
+      },
+      {
+        "name": "Ratib al-Shadhili",
+        "author": "Syekh Abu al-Hasan al-Shadhili",
+        "desc": "Zikir-zikir pilihan yang berfokus pada rasa syukur dan pengenalan nikmat Allah."
+      },
+      {
+        "name": "Ratib al-Nawawi",
+        "author": "Imam Yahya bin Syaraf al-Nawawi",
+        "desc": "Meskipun sering disebut Hizb, susunannya yang sistematis menjadikannya ratib harian para penuntut ilmu."
+      },
+      {
+        "name": "Ratib al-Bakri",
+        "author": "Syekh Abu Bakar bin Salim",
+        "desc": "Ratib yang disusun oleh ulama besar dari lembah Hadramaut untuk memohon kemuliaan dan keberkahan."
+      },
+      {
+        "name": "Ratib al-Adni",
+        "author": "Al-Habib Abu Bakar al-Adni bin Abdullah al-Aydarus",
+        "desc": "Zikir yang disusun khusus untuk para penduduk kota Aden sebagai sarana perlindungan kolektif."
+      },
+      {
+        "name": "Ratib al-Munawi",
+        "author": "Syekh Abdurrauf al-Munawi",
+        "desc": "Rangkaian zikir yang disusun dengan merujuk pada hadis-hadis sahih untuk diamalkan setiap pagi dan sore."
+      },
+      {
+        "name": "Ratib al-Khawajagan",
+        "author": "Para Masyayikh Tarekat Naqsyabandiyah",
+        "desc": "Zikir berjamaah yang sangat masyhur dalam tradisi spiritual Asia Tengah dan Nusantara."
+      },
+      {
+        "name": "Ratib al-Suhrawardi",
+        "author": "Syekh Syihabuddin al-Suhrawardi",
+        "desc": "Kumpulan zikir yang mengutamakan pembersihan jiwa melalui wirid-wirid yang mendalam."
+      },
+      {
+        "name": "Ratib al-Fakhri",
+        "author": "Al-Habib Abu Bakar bin Salim (Fakhrul Wujud)",
+        "desc": "Zikir yang mengandung asmaul husna dan permohonan ampunan yang disusun secara puitis."
+      },
+      {
+        "name": "Ratib al-Qadiriyah",
+        "author": "Syekh Abdul Qadir al-Jailani",
+        "desc": "Himpunan doa yang dibaca setelah shalat lima waktu untuk memperlancar rezeki dan urusan."
+      },
+      {
+        "name": "Ratib al-Tijaniyah",
+        "author": "Syekh Ahmad al-Tijani",
+        "desc": "Zikir lazimah yang menjadi syarat utama bagi para pengikut tarekat Tijaniyah."
+      },
+      {
+        "name": "Ratib al-Masyhur",
+        "author": "Al-Habib Alwi bin Ahmad al-Haddad",
+        "desc": "Kumpulan wirid yang merangkum berbagai doa penting dari kitab-kitab salaf."
+      },
+      {
+        "name": "Ratib al-Aziz",
+        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
+        "desc": "Varian lain dari zikir keluarga Al-Attas yang menekankan pada keperkasaan nama Allah."
+      },
+      {
+        "name": "Ratib al-Wajiz",
+        "author": "Al-Habib Abdullah bin Alwi al-Haddad",
+        "desc": "Ringkasan padat dari berbagai wirid untuk orang yang memiliki waktu terbatas namun ingin tetap berzikir."
+      }
+    ],
+    "type": "json_gen",
+    "created_at": "2026-05-03T19:01:32.519Z",
+    "id": "dca3ee34-63dd-4bff-a782-f9e8a7638730",
+    "username": "AI Santri"
+  },
+  {
+    "featureName": "AI Generation",
+    "query": "\n          Sebutkan 20-50 Kitab Kuning populer unt",
+    "result": [
+      {
         "name": "Aqidatul Awam",
         "author": "Syeikh Ahmad al-Marzuqi al-Maliki",
         "desc": "Kitab nadhom populer yang berisi dasar-dasar ilmu tauhid dan sejarah ringkas Nabi bagi tingkat pemula."
@@ -1936,14 +2071,5 @@
     "model": "gemini-3-flash-preview",
     "created_at": "2025-12-29 02:42:09.354+00",
     "id": "697"
-  },
-  {
-    "prompt_hash": "h1093238839",
-    "prompt_text": "Ar-Risalah al-Qusyairiyah, Ihya' Ulumiddin, Thabaqat al-Shufiyyah li al-Sulami.",
-    "response_json": "{\"audioUrl\":\"https://nakcvposmjfrvzfibjhj.supabase.co/storage/v1/object/public/tts-audio/h1093238839.wav\"}",
-    "type": "tts_id",
-    "model": "gemini-2.5-flash-preview-tts",
-    "created_at": "2026-01-20 12:36:56.128078+00",
-    "id": "2421"
   }
 ]
