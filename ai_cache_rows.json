@@ -1,7 +1,7 @@
 [
   {
-    "prompt_hash": "h1330147336",
-    "prompt_text": "\n      Topik/Teks: \"Muqaddimah (Basmalah, Hamdalah, dan Shalawat) - Aqidatul Awam\" \n      Kitab/Sumber: \"Aqidatul Awam\"\n      \n      Format JSON Wajib (JANGAN GUNAKAN MARKDOWN):\n      {\n        \"originalText\": \"Teks asli input...\",\n        \"matan\": \"Tulis ulang teks Arab dengan HARAKAT LENGKAP (Voweled).\",\n        \"arabGundul\": \"Tulis ulang teks Arab TANPA HARAKAT (Gundul) sama sekali.\",\n        \"modernTranslation\": \"Terjemahan Indonesia standar.\",\n        \"maknaGandul\": \"Terjemahan ala pesantren (utawi, iku, sopo...).\",\n        \"murab\": \"Analisis I'rab (Kedudukan kata: Mubtada, Khobar, Fail, dll).\",\n        \"syarah\": \"Penjelasan rinci kandungan makna (Syarah/Tafsir).\",\n        \"munawwir\": \"Analisis kosakata sulit merujuk Kamus Al-Munawwir (Root word, wazan).\",\n        \"nahwuShorof\": \"Analisis Nahwu & Shorof.\",\n        \"ijma\": \"Analisis Ijma' Ulama terkait masalah ini (jika ada).\",\n        \"qiyas\": \"Analisis Qiyas (Analogi Hukum) terkait masalah ini (jika ada).\",\n        \"madzhab\": \"Perbandingan pendapat 4 Madzhab (Hanafi, Maliki, Syafi'i, Hambali) secara ringkas.\",\n        \"tajwid\": \"Hukum bacaan tajwid (Jika Al-Quran/Hadits).\",\n        \"asbabunNuzul\": \"Sebab turunnya ayat (Jika Al-Quran, jika tidak: null).\",\n        \"asbabulWurud\": \"Sebab munculnya hadits (Jika Hadits, jika tidak: null).\",\n        \"balaghah\": \"Keindahan bahasa (Majaz, Kinayah, dll).\",\n        \"ushulFiqh\": \"Istinbath hukum (Wajib, Sunnah, Syarat, Rukun).\",\n        \"hikmah\": \"Pelajaran/Hikmah utama.\",\n        \"referensi\": \"Kitab-kitab rujukan yang relevan.\",\n        \"quranRef\": \"Nama Surat dan Nomor Ayat (Contoh: QS. Al-Baqarah: 183) jika teks dari Quran, jika tidak null.\",\n        \"hadithRef\": \"Nama Perawi dan Nomor Hadits (Contoh: HR. Bukhari No. 1) jika teks adalah Hadits, jika tidak null.\"\n      }\n    ",
+    "prompt_hash": "h715934932",
+    "prompt_text": "kitab_analysis:Muqaddimah (Basmalah, Hamdalah, dan Shalawat) - Aqidatul Awam:Aqidatul Awam",
     "response_json": {
       "originalText": "Muqaddimah (Basmalah, Hamdalah, dan Shalawat) - Aqidatul Awam",
       "matan": "أَبْدَأُ بِاسْمِ اللهِ وَالرَّحْمَنِ * وَبِالرَّحِيْمِ دَائِمِ الإِحْسَانِ. فَالْحَمْدُ للهِ الْقَدِيْمِ الأَوَّلِ * الآخِرِ الْبَاقِي بِلَا تَحَوُّلِ. ثُمَّ الصَّلَاةُ وَالسَّلَامُ سَرْمَدَا * عَلَى النَّبِيِّ خَيْرِ مَنْ قَدْ وَحَّدَا. وَآلِهِ وَصَحْبِهِ وَمَنْ تَبِعْ * سَبِيْلَ دِيْنِ الْحَقِّ غَيْرَ مُبْتَدِعْ.",
@@ -25,9 +25,9 @@
       "quranRef": null,
       "hadithRef": "HR. Abu Daud No. 4840, Ibnu Majah No. 1894 (Hadits Hasan menurut sebagian ulama)."
     },
-    "type": "json_gen",
+    "type": "kitab_analysis",
     "model": "gemini-3-flash-preview",
-    "created_at": "2026-05-03T17:46:51.516Z"
+    "created_at": "2026-05-03T17:46:55.668Z"
   },
   {
     "prompt_hash": "h1001161051",
