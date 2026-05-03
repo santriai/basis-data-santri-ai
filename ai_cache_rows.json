@@ -1,137 +1,69 @@
 [
   {
     "featureName": "AI Generation",
-    "query": "\n          Sebutkan 20-50 Kitab Kuning populer unt",
-    "result": [
-      {
-        "name": "Ratib al-Haddad",
-        "author": "Al-Habib Abdullah bin Alwi al-Haddad",
-        "desc": "Kumpulan zikir dan doa yang sangat populer di dunia Islam untuk perlindungan diri dan ketenangan hati."
-      },
-      {
-        "name": "Ratib al-Attas",
-        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
-        "desc": "Zikir yang disusun untuk memperkuat iman dan menjaga keselamatan dari segala bala dan musibah."
-      },
-      {
-        "name": "Ratib al-Aydarus (Syamsi Syumus)",
-        "author": "Al-Habib Abdullah bin Abu Bakar al-Aydarus",
-        "desc": "Ratib yang dikenal sebagai 'Matahari dari segala Matahari' untuk menerangi hati dengan cahaya makrifat."
-      },
-      {
-        "name": "Ratib al-Akbar",
-        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
-        "desc": "Versi panjang dari zikir-zikir pilihan yang disusun untuk mendekatkan diri kepada Allah secara intensif."
-      },
-      {
-        "name": "Ratib al-Habsyi",
-        "author": "Al-Habib Ali bin Muhammad al-Habsyi",
-        "desc": "Rangkaian zikir yang disusun oleh penyusun Maulid Simtudduror untuk mempererat hubungan dengan Rasulullah."
-      },
-      {
-        "name": "Ratib al-Sakran",
-        "author": "Al-Habib Ali bin Abu Bakar al-Sakran",
-        "desc": "Zikir yang disusun sebagai benteng pertahanan spiritual dari gangguan jin dan manusia."
-      },
-      {
-        "name": "Ratib al-Jailani",
-        "author": "Syekh Abdul Qadir al-Jailani",
-        "desc": "Kumpulan wirid yang dinisbatkan kepada Sultanul Auliya untuk meraih keberkahan hidup."
-      },
-      {
-        "name": "Ratib al-Samman",
-        "author": "Syekh Muhammad bin Abdul Karim al-Samman",
-        "desc": "Ratib yang populer di kalangan tarekat Sammaniyah, berisi zikir keras dan madah pujian."
-      },
-      {
-        "name": "Ratib al-Khalidiyah",
-        "author": "Syekh Khalid al-Baghdadi",
-        "desc": "Susunan zikir yang menjadi amalan rutin para pengikut tarekat Naqsyabandiyah Khalidiyah."
-      },
-      {
-        "name": "Ratib al-Rifa'i",
-        "author": "Syekh Ahmad al-Rifa'i",
-        "desc": "Zikir yang menekankan pada kerendahan hati dan ketundukan mutlak di hadapan Allah SWT."
-      },
-      {
-        "name": "Ratib al-Badawi",
-        "author": "Syekh Ahmad al-Badawi",
-        "desc": "Wirid yang disusun oleh pendiri tarekat Ahmadiyah Badawiyah untuk kekuatan ruhani."
-      },
-      {
-        "name": "Ratib al-Dasuqi",
-        "author": "Syekh Ibrahim al-Dasuqi",
-        "desc": "Kumpulan doa dan zikir yang mengandung rahasia-rahasia ketuhanan dari tokoh sufi besar Mesir."
-      },
-      {
-        "name": "Ratib al-Shadhili",
-        "author": "Syekh Abu al-Hasan al-Shadhili",
-        "desc": "Zikir-zikir pilihan yang berfokus pada rasa syukur dan pengenalan nikmat Allah."
-      },
-      {
-        "name": "Ratib al-Nawawi",
-        "author": "Imam Yahya bin Syaraf al-Nawawi",
-        "desc": "Meskipun sering disebut Hizb, susunannya yang sistematis menjadikannya ratib harian para penuntut ilmu."
-      },
-      {
-        "name": "Ratib al-Bakri",
-        "author": "Syekh Abu Bakar bin Salim",
-        "desc": "Ratib yang disusun oleh ulama besar dari lembah Hadramaut untuk memohon kemuliaan dan keberkahan."
-      },
-      {
-        "name": "Ratib al-Adni",
-        "author": "Al-Habib Abu Bakar al-Adni bin Abdullah al-Aydarus",
-        "desc": "Zikir yang disusun khusus untuk para penduduk kota Aden sebagai sarana perlindungan kolektif."
-      },
-      {
-        "name": "Ratib al-Munawi",
-        "author": "Syekh Abdurrauf al-Munawi",
-        "desc": "Rangkaian zikir yang disusun dengan merujuk pada hadis-hadis sahih untuk diamalkan setiap pagi dan sore."
-      },
-      {
-        "name": "Ratib al-Khawajagan",
-        "author": "Para Masyayikh Tarekat Naqsyabandiyah",
-        "desc": "Zikir berjamaah yang sangat masyhur dalam tradisi spiritual Asia Tengah dan Nusantara."
-      },
-      {
-        "name": "Ratib al-Suhrawardi",
-        "author": "Syekh Syihabuddin al-Suhrawardi",
-        "desc": "Kumpulan zikir yang mengutamakan pembersihan jiwa melalui wirid-wirid yang mendalam."
-      },
-      {
-        "name": "Ratib al-Fakhri",
-        "author": "Al-Habib Abu Bakar bin Salim (Fakhrul Wujud)",
-        "desc": "Zikir yang mengandung asmaul husna dan permohonan ampunan yang disusun secara puitis."
-      },
-      {
-        "name": "Ratib al-Qadiriyah",
-        "author": "Syekh Abdul Qadir al-Jailani",
-        "desc": "Himpunan doa yang dibaca setelah shalat lima waktu untuk memperlancar rezeki dan urusan."
-      },
-      {
-        "name": "Ratib al-Tijaniyah",
-        "author": "Syekh Ahmad al-Tijani",
-        "desc": "Zikir lazimah yang menjadi syarat utama bagi para pengikut tarekat Tijaniyah."
-      },
-      {
-        "name": "Ratib al-Masyhur",
-        "author": "Al-Habib Alwi bin Ahmad al-Haddad",
-        "desc": "Kumpulan wirid yang merangkum berbagai doa penting dari kitab-kitab salaf."
-      },
-      {
-        "name": "Ratib al-Aziz",
-        "author": "Al-Habib Umar bin Abdurrahman al-Attas",
-        "desc": "Varian lain dari zikir keluarga Al-Attas yang menekankan pada keperkasaan nama Allah."
-      },
-      {
-        "name": "Ratib al-Wajiz",
-        "author": "Al-Habib Abdullah bin Alwi al-Haddad",
-        "desc": "Ringkasan padat dari berbagai wirid untuk orang yang memiliki waktu terbatas namun ingin tetap berzikir."
-      }
-    ],
+    "query": "\n        Bertindaklah sebagai sejarawan Islam ahli",
+    "result": {
+      "fullName": "Al-Habib Umar bin Abdurrahman al-Attas bin Agil (الحبيب عمر بن عبد الرحمن العطاس)",
+      "titles": "Al-Quthb al-Anfas, Shahibur Ratib, Al-Imam al-Arif Billah",
+      "birthDeath": "992 H - 1072 H (1584 M - 1661 M)",
+      "intro": "Seorang ulama besar dari kaum Alawiyyin di Hadramaut yang dikenal sebagai wali quthb dan pembaharu spiritual. Beliau adalah penyusun wirid masyhur 'Ratib al-Attas' yang diamalkan secara luas oleh umat Islam di seluruh dunia hingga saat ini.",
+      "teachers": [
+        "Al-Habib Abu Bakar bin Salim (Maula Inat)",
+        "Al-Habib Umar bin Isa bin Umar al-Kaff",
+        "Al-Habib Abu Bakar bin Husain bin Syaikh Abu Bakar bin Salim",
+        "Al-Habib Syekh bin Abdullah al-Aydarus",
+        "Al-Habib Abdurrahman bin Agil (Ayah Beliau)"
+      ],
+      "students": [
+        "Al-Habib Ali bin Abdullah al-Attas (Penyusun kitab Al-Qirthas)",
+        "Al-Habib Abdullah bin Alawi al-Haddad (Shahibur Ratib al-Haddad)",
+        "Al-Habib Isa bin Muhammad al-Habasyi",
+        "Al-Habib Ahmad bin Hasyim al-Habasyi",
+        "Al-Habib Muhammad bin Ahmad bin Husein al-Aydarus"
+      ],
+      "works": [
+        "Ratib al-Attas (Al-Aziz al-Mani')",
+        "Kumpulan Doa dan Adzkar",
+        "Safinah an-Najah (Risalah Spiritual)",
+        "Ijazah-Ijazah Keilmuan dan Thariqah",
+        "Untaian Hikmah dan Mauizhah (Tercatat dalam Al-Qirthas)"
+      ],
+      "timeline": [
+        {
+          "year": "992 H",
+          "event": "Lahir di desa Lisk, dekat kota Inat, Hadramaut, Yaman."
+        },
+        {
+          "year": "1040 H",
+          "event": "Menetap di Huraidzah dan mulai menyebarkan dakwah serta menyusun Ratib al-Attas."
+        },
+        {
+          "year": "1072 H",
+          "event": "Wafat pada malam Kamis, 23 Rabi'ul Akhir di desa Nafun dan dimakamkan di Huraidzah."
+        }
+      ],
+      "narrativeSections": [
+        {
+          "title": "Kelahiran & Masa Kecil",
+          "content": "Al-Habib Umar bin Abdurrahman al-Attas lahir dalam lingkungan keluarga yang sangat religius di Lisk, Hadramaut. Meskipun beliau kehilangan penglihatan lahiriahnya sejak kecil, Allah SWT menganugerahkan Bashirah (penglihatan hati) yang luar biasa. Beliau tumbuh di bawah bimbingan langsung ayahnya dan lingkungan keilmuan Hadramaut yang kental dengan tradisi Ba 'Alawi."
+        },
+        {
+          "title": "Rihlah Ilmiah (Pendidikan & Guru)",
+          "content": "Beliau menempuh pendidikan dengan melakukan perjalanan ke berbagai pusat ilmu di Hadramaut. Guru utamanya yang paling berpengaruh adalah Al-Habib Abu Bakar bin Salim dari Inat. Dari para gurunya, beliau tidak hanya mengambil ilmu syariat (fiqh dan hadits), tetapi juga mendalami rahasia tasawuf dan thariqah Alawiyyah, hingga mencapai derajat kemuliaan spiritual yang tinggi."
+        },
+        {
+          "title": "Karya & Peninggalan",
+          "content": "Karya beliau yang paling monumental adalah 'Ratib al-Attas'. Litani dzikir ini disusun sebagai 'perisai' bagi penduduk Huraidzah saat itu dari berbagai ancaman fisik maupun spiritual. Peninggalan lainnya adalah transmisi keilmuan yang melahirkan ulama-ulama besar seperti Al-Habib Abdullah bin Alawi al-Haddad yang menganggap beliau sebagai salah satu murobbi spiritual utamanya."
+        },
+        {
+          "title": "Wafat & Makam",
+          "content": "Beliau wafat pada tahun 1072 H di Nafun saat dalam perjalanan dakwah. Jenazahnya dibawa ke Huraidzah untuk dimakamkan di sana. Hingga hari ini, makam beliau di Huraidzah menjadi tujuan ziarah bagi ribuan umat Islam dari berbagai penjuru dunia, terutama saat pelaksanaan Haul beliau."
+        }
+      ]
+    },
     "type": "json_gen",
-    "created_at": "2026-05-03T19:01:32.519Z",
-    "id": "dca3ee34-63dd-4bff-a782-f9e8a7638730",
+    "created_at": "2026-05-03T19:02:07.942Z",
+    "id": "4426c3d5-3ed6-439c-9cc2-e8d6df3f66d1",
     "username": "AI Santri"
   },
   {
