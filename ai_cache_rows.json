@@ -1,112 +1,32 @@
 [
   {
-    "prompt_hash": "h646582313",
-    "prompt_text": "Berikan daftar 15-20 Kitab Kuning populer untuk kategori: \"Akidah (Tauhid)\". Format JSON (Array of Objects): [{\"name\": \"Nama Kitab\", \"author\": \"Nama Pengarang\", \"desc\": \"Deskripsi singkat\"}]",
-    "response_json": [
-      {
-        "name": "Aqidatul Awam",
-        "author": "Syeikh Ahmad al-Marzuqi",
-        "desc": "Kitab nadham (puisi) dasar yang menjelaskan sifat wajib, mustahil, dan jaiz bagi Allah serta Rasul."
-      },
-      {
-        "name": "Tijand Darari",
-        "author": "Syeikh Ibrahim al-Bajuri",
-        "desc": "Syarah ringkas mengenai dasar-dasar ilmu tauhid yang sering dipelajari di tingkat pemula pesantren."
-      },
-      {
-        "name": "Kifayatul Awam",
-        "author": "Syeikh Muhammad al-Fudhali",
-        "desc": "Kitab yang membahas secara mendalam tentang konsep Sifat 20 dengan pendekatan logika."
-      },
-      {
-        "name": "Ummul Barahin (As-Sanusiyah)",
-        "author": "Imam Muhammad bin Yusuf as-Sanusi",
-        "desc": "Kitab induk dalam madzhab Asy'ariyah yang menguraikan dalil-dalil ketuhanan."
-      },
-      {
-        "name": "Jauharatut Tauhid",
-        "author": "Syeikh Ibrahim al-Laqqani",
-        "desc": "Nadham populer yang mencakup seluruh poin penting akidah Ahlussunnah wal Jama'ah."
-      },
-      {
-        "name": "Tuhfatul Murid",
-        "author": "Syeikh Ibrahim al-Bajuri",
-        "desc": "Kitab syarah (penjelasan) luas atas nadham Jauharatut Tauhid."
-      },
-      {
-        "name": "Nuruz Zhalam",
-        "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas kitab Aqidatul Awam yang sangat populer di pesantren Indonesia."
-      },
-      {
-        "name": "Risalah Ahlis Sunnah wal Jama'ah",
-        "author": "KH Hasyim Asy'ari",
-        "desc": "Karya pendiri NU yang menjelaskan definisi dan batasan akidah Aswaja di Nusantara."
-      },
-      {
-        "name": "Bad'ul Amali",
-        "author": "Syeikh Ali bin Utsman al-Ushi",
-        "desc": "Nadham akidah yang mengikuti aliran Al-Maturidiyyah."
-      },
-      {
-        "name": "Al-Aqidah ath-Thahawiyyah",
-        "author": "Imam Abu Ja'far ath-Thahawi",
-        "desc": "Matan akidah klasik yang disepakati oleh mayoritas ulama lintas madzhab."
-      },
-      {
-        "name": "Qathrul Ghaits",
-        "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas Masail Abi Laits as-Samarqandi yang membahas masalah teologis esensial."
-      },
-      {
-        "name": "Al-Fiqh al-Akbar",
-        "author": "Imam Abu Hanifah",
-        "desc": "Salah satu kitab tauhid tertua yang dinisbatkan kepada Imam Abu Hanifah."
-      },
-      {
-        "name": "Fathul Majid",
-        "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas matan Ad-Durratul Farid fi 'Ilmit Tauhid."
-      },
-      {
-        "name": "Al-Iqtishad fil I'tiqad",
-        "author": "Imam al-Ghazali",
-        "desc": "Kitab tingkat lanjut yang menggunakan argumen logika filosofis dalam membela akidah Asy'ariyah."
-      },
-      {
-        "name": "Syarh al-Kharidah al-Bahiyyah",
-        "author": "Syeikh Ahmad al-Dardir",
-        "desc": "Kitab tauhid yang menggabungkan pendekatan logika dan sufistik."
-      },
-      {
-        "name": "Husunul Hamidiyyah",
-        "author": "Syeikh Husain Afandi al-Jisr",
-        "desc": "Kitab yang disusun untuk membela akidah Islam dari syubhat pemikiran modern."
-      },
-      {
-        "name": "Al-Hushun al-Mani'ah",
-        "author": "Syeikh Sayyid Muhammad Alwi al-Maliki",
-        "desc": "Karya ulama kontemporer Makkah yang merangkum dasar-dasar akidah Aswaja."
-      },
-      {
-        "name": "Bahjatul Wasail",
-        "author": "Syeikh Muhammad bin Umar an-Nawawi",
-        "desc": "Kitab ringkas yang membahas rukun iman, rukun islam, dan ihsan secara terpadu."
-      },
-      {
-        "name": "As-Sullamul Munauraj",
-        "author": "Syeikh Abdurrahman al-Akhdhari",
-        "desc": "Meski kitab logika (mantiq), sangat krusial digunakan sebagai alat dalam memperkuat argumen tauhid."
-      },
-      {
-        "name": "Kubra al-Yaqiniyat al-Kawnia",
-        "author": "Syeikh Said Ramadan al-Buti",
-        "desc": "Kitab akidah modern yang menjawab tantangan ateisme dan sains materialisme."
-      }
-    ],
+    "prompt_hash": "h850677741",
+    "prompt_text": "\n    Berikan informasi detail dan SANGAT LENGKAP untuk kitab: \"Aqidatul Awam\" karya Syeikh Ahmad al-Marzuqi.\n    \n    Output JSON (Wajib):\n    {\n        \"name\": \"Aqidatul Awam\",\n        \"desc\": \"Deskripsi singkat (1 kalimat)\",\n        \"author\": \"Nama Lengkap Pengarang & Gelar\",\n        \"year\": \"Tahun/Abad Lahir/Wafat (Hijriyah & Masehi)\",\n        \"category\": \"Kategori Utama (pilih satu: Tafsir, Hadits, Fiqih, Aqidah, Tasawuf, Nahwu, Sejarah, Lainnya)\",\n        \"longDesc\": \"Deskripsi mendalam tentang isi kitab, metode penulisan, keistimewaan, dan kedudukannya dalam mazhab/ilmu terkait (minimal 3 paragraf).\",\n        \"chapters\": [\n        \"Muqaddimah\",\n        \"Bab 1: [Judul Bab]\",\n        \"Bab 2: [Judul Bab]\",\n        ...\n        \"Khatimah\"\n        ] \n    }\n    ",
+    "response_json": {
+      "name": "Aqidatul Awam",
+      "desc": "Kitab nadham (syair) ringkas yang memuat pokok-pokok akidah Islam aliran Ahlussunnah wal Jama'ah bagi masyarakat awam.",
+      "author": "Al-Imam Al-Allamah As-Sayyid Ahmad bin Muhammad bin Sayyid Ramadhan al-Marzuqi al-Maliki al-Hasani",
+      "year": "1205 - 1281 H / 1791 - 1864 M",
+      "category": "Aqidah",
+      "longDesc": "Aqidatul Awam merupakan mahakarya dari Syeikh Ahmad al-Marzuqi yang disusun pada tahun 1258 H di Makkah. Kitab ini berbentuk nadham (bait syair) menggunakan bahar rajaz agar mudah dihafal dan dipahami oleh kaum awam. Menurut sejarahnya, penyusunan kitab ini didasari oleh mimpi pengarang bertemu Rasulullah SAW yang memerintahkannya untuk menuliskan poin-poin tauhid guna menjaga keimanan umat. Terdiri dari 57 bait, kitab ini menjadi kurikulum wajib di hampir seluruh madrasah dan pesantren, khususnya di Nusantara, sebagai fondasi awal pengenalan ilmu tauhid.\n\nIsi dari kitab ini menitikberatkan pada pemahaman Sifat 20 bagi Allah SWT (wajib, mustahil, dan jaiz) serta sifat-sifat bagi para Rasul. Selain masalah ketuhanan dan kenabian, Syeikh Ahmad al-Marzuqi juga menyertakan materi mengenai nama-nama malaikat yang wajib diketahui, kitab-kitab Allah, serta silsilah keluarga Nabi Muhammad SAW secara ringkas namun padat. Pendekatannya yang menggunakan logika sederhana selaras dengan metodologi Asy'ariyah-Maturidiyah, menjadikannya panduan teologis yang sangat populer karena mampu menyederhanakan konsep teologi yang kompleks menjadi bait-bait yang ritmis.\n\nKeistimewaan Aqidatul Awam terletak pada keberkahannya yang diakui secara luas, di mana banyak ulama besar memberikan syarah (penjelasan) terhadapnya, seperti Syeikh Nawawi al-Bantani dalam kitab Nuruz Zhalam. Kedudukannya dalam khazanah keilmuan Islam sangat vital sebagai 'pintu masuk' bagi seorang muslim untuk mengenal Tuhan dan Nabinya secara benar sesuai dengan konsensus Ahlussunnah wal Jama'ah. Hingga saat ini, lantunan bait-baitnya sering dibaca secara kolektif di berbagai majelis taklim sebagai puji-pujian sekaligus sarana edukasi akidah bagi generasi muda.",
+      "chapters": [
+        "Muqaddimah (Basmalah, Hamdalah, dan Shalawat)",
+        "Bab 1: Sifat-Sifat Wajib bagi Allah (Sifat 20)",
+        "Bab 2: Sifat Mustahil dan Jaiz bagi Allah",
+        "Bab 3: Sifat Wajib, Mustahil, dan Jaiz bagi Para Rasul",
+        "Bab 4: Nama-Nama Rasul yang Wajib Diketahui (25 Rasul)",
+        "Bab 5: Nama-Nama Malaikat yang Wajib Diketahui dan Tugasnya",
+        "Bab 6: Kitab-Kitab Samawi dan Para Rasul Penerimanya",
+        "Bab 7: Silsilah Nasab Nabi Muhammad SAW dari Jalur Ayah dan Ibu",
+        "Bab 8: Keluarga dan Istri-Istri Nabi Muhammad SAW (Ummahatul Mukminin)",
+        "Bab 9: Putra-Putri Nabi Muhammad SAW",
+        "Bab 10: Ringkasan Peristiwa Isra' Mi'raj dan Kewajiban Shalat",
+        "Khatimah (Penutup, Nama Pengarang, dan Jumlah Bait)"
+      ]
+    },
     "type": "json_gen",
     "model": "gemini-3-flash-preview",
-    "created_at": "2026-05-03T17:44:38.722Z"
+    "created_at": "2026-05-03T17:46:12.795Z"
   },
   {
     "prompt_hash": "h1001161051",
