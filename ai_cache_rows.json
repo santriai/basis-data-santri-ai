@@ -1,7 +1,7 @@
 [
   {
-    "featureName": "AI Generation",
-    "query": "\n        Bertindaklah sebagai sejarawan Islam ahli",
+    "featureName": "Biografi Ulama",
+    "query": "Al-Habib Umar bin Abdurrahman al-Attas bin Agil",
     "result": {
       "fullName": "Al-Habib Umar bin Abdurrahman al-Attas bin Agil (الحبيب عمر بن عبد الرحمن العطاس)",
       "titles": "Al-Quthb al-Anfas, Shahibur Ratib, Al-Imam al-Arif Billah",
@@ -61,9 +61,9 @@
         }
       ]
     },
-    "type": "json_gen",
-    "created_at": "2026-05-03T19:02:07.942Z",
-    "id": "4426c3d5-3ed6-439c-9cc2-e8d6df3f66d1",
+    "type": "biography",
+    "created_at": "2026-05-03T19:02:17.127Z",
+    "id": "539b6590-e21d-4336-aa04-aec3014b2d3d",
     "username": "AI Santri"
   },
   {
