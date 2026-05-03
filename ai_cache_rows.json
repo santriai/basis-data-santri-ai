@@ -1,137 +1,112 @@
 [
   {
-    "prompt_hash": "h750484745",
-    "prompt_text": "Sebutkan 20-50 Kitab Kuning populer untuk kategori: \"Akidah (Tauhid)\". Format JSON (Array of Objects): [{\"name\": \"Nama Kitab\", \"author\": \"Nama Pengarang\", \"desc\": \"Deskripsi singkat\"}]",
+    "prompt_hash": "h646582313",
+    "prompt_text": "Berikan daftar 15-20 Kitab Kuning populer untuk kategori: \"Akidah (Tauhid)\". Format JSON (Array of Objects): [{\"name\": \"Nama Kitab\", \"author\": \"Nama Pengarang\", \"desc\": \"Deskripsi singkat\"}]",
     "response_json": [
       {
         "name": "Aqidatul Awam",
-        "author": "Syeikh Ahmad al-Marzuqi al-Maliki",
-        "desc": "Kitab berbentuk nazham (syair) yang berisi dasar-dasar tauhid dan sejarah Nabi bagi pemula."
+        "author": "Syeikh Ahmad al-Marzuqi",
+        "desc": "Kitab nadham (puisi) dasar yang menjelaskan sifat wajib, mustahil, dan jaiz bagi Allah serta Rasul."
+      },
+      {
+        "name": "Tijand Darari",
+        "author": "Syeikh Ibrahim al-Bajuri",
+        "desc": "Syarah ringkas mengenai dasar-dasar ilmu tauhid yang sering dipelajari di tingkat pemula pesantren."
+      },
+      {
+        "name": "Kifayatul Awam",
+        "author": "Syeikh Muhammad al-Fudhali",
+        "desc": "Kitab yang membahas secara mendalam tentang konsep Sifat 20 dengan pendekatan logika."
       },
       {
         "name": "Ummul Barahin (As-Sanusiyah)",
-        "author": "Syeikh Muhammad bin Yusuf as-Sanusi",
-        "desc": "Kitab pokok dalam akidah Asy'ariyah yang menjelaskan Sifat 20 serta dalil-dalil aqli dan naqli."
+        "author": "Imam Muhammad bin Yusuf as-Sanusi",
+        "desc": "Kitab induk dalam madzhab Asy'ariyah yang menguraikan dalil-dalil ketuhanan."
       },
       {
         "name": "Jauharatut Tauhid",
         "author": "Syeikh Ibrahim al-Laqqani",
-        "desc": "Matan nazham yang sangat populer di tingkat menengah, merangkum poin-poin penting akidah Ahlussunnah."
+        "desc": "Nadham populer yang mencakup seluruh poin penting akidah Ahlussunnah wal Jama'ah."
       },
       {
-        "name": "Tuhfatul Murid ala Jauharatit Tauhid",
+        "name": "Tuhfatul Murid",
         "author": "Syeikh Ibrahim al-Bajuri",
-        "desc": "Syarah yang luas dan mendalam atas kitab Jauharatut Tauhid, menjadi referensi utama di pesantren."
+        "desc": "Kitab syarah (penjelasan) luas atas nadham Jauharatut Tauhid."
       },
       {
-        "name": "Kifayatul Awam",
-        "author": "Syeikh Muhammad al-Fudali",
-        "desc": "Menjelaskan konsep Sifat 20 dengan pendekatan logika sederhana agar mudah dipahami masyarakat awam."
-      },
-      {
-        "name": "Tijan ad-Darari",
+        "name": "Nuruz Zhalam",
         "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah ringkas atas Risalah al-Bajuri fi Ilmit Tauhid yang sering dipelajari di tingkat dasar."
+        "desc": "Syarah atas kitab Aqidatul Awam yang sangat populer di pesantren Indonesia."
       },
       {
-        "name": "Nuruzh Zhalam",
-        "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas nazham Aqidatul Awam yang memberikan penjelasan lebih detail mengenai poin-poin akidah."
+        "name": "Risalah Ahlis Sunnah wal Jama'ah",
+        "author": "KH Hasyim Asy'ari",
+        "desc": "Karya pendiri NU yang menjelaskan definisi dan batasan akidah Aswaja di Nusantara."
       },
       {
-        "name": "Fathul Majid",
-        "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas kitab ad-Durrul Farid fi Ilmit Tauhid, membahas keesaan Allah secara mendalam."
+        "name": "Bad'ul Amali",
+        "author": "Syeikh Ali bin Utsman al-Ushi",
+        "desc": "Nadham akidah yang mengikuti aliran Al-Maturidiyyah."
       },
       {
-        "name": "Al-Fiqh al-Akbar",
-        "author": "Imam Abu Hanifah an-Nu'man",
-        "desc": "Kitab tauhid klasik yang dinisbatkan kepada Imam Hanafi, membahas pokok-pokok iman."
-      },
-      {
-        "name": "Al-Aqidah al-Thahawiyyah",
-        "author": "Imam Abu Ja'far at-Thahawi",
-        "desc": "Matan akidah universal yang disepakati oleh mayoritas ulama Ahlussunnah wal Jamaah."
-      },
-      {
-        "name": "Syarah al-Kharidah al-Bahiyyah",
-        "author": "Syeikh Ahmad ad-Dardir",
-        "desc": "Penjelasan atas nazham Kharidah al-Bahiyyah yang menggabungkan ilmu tauhid dan dasar-dasar tasawuf."
-      },
-      {
-        "name": "Jawahirul Kalamiyah",
-        "author": "Syeikh Thahir bin Shalih al-Jaza'iri",
-        "desc": "Kitab tauhid kontemporer yang disusun dalam format tanya jawab (hiwar) agar mudah dihafal."
+        "name": "Al-Aqidah ath-Thahawiyyah",
+        "author": "Imam Abu Ja'far ath-Thahawi",
+        "desc": "Matan akidah klasik yang disepakati oleh mayoritas ulama lintas madzhab."
       },
       {
         "name": "Qathrul Ghaits",
         "author": "Syeikh Nawawi al-Bantani",
-        "desc": "Syarah atas Masail Abi Laits as-Samarqandi, membahas berbagai masalah iman dalam bentuk tanya jawab."
+        "desc": "Syarah atas Masail Abi Laits as-Samarqandi yang membahas masalah teologis esensial."
       },
       {
-        "name": "Bad-ul Amali",
-        "author": "Syeikh Sirajuddin al-Ushi",
-        "desc": "Nazham tauhid kuno yang sangat populer di madrasah-madrasah tradisional karena bahasanya yang indah."
+        "name": "Al-Fiqh al-Akbar",
+        "author": "Imam Abu Hanifah",
+        "desc": "Salah satu kitab tauhid tertua yang dinisbatkan kepada Imam Abu Hanifah."
+      },
+      {
+        "name": "Fathul Majid",
+        "author": "Syeikh Nawawi al-Bantani",
+        "desc": "Syarah atas matan Ad-Durratul Farid fi 'Ilmit Tauhid."
       },
       {
         "name": "Al-Iqtishad fil I'tiqad",
         "author": "Imam al-Ghazali",
-        "desc": "Kitab yang membahas akidah dengan pendekatan moderat dan argumentasi rasional yang kuat."
+        "desc": "Kitab tingkat lanjut yang menggunakan argumen logika filosofis dalam membela akidah Asy'ariyah."
       },
       {
-        "name": "Risalah Ahlussunnah wal Jamaah",
-        "author": "KH. Hasyim Asy'ari",
-        "desc": "Karya pendiri NU yang menjelaskan definisi Aswaja serta bahaya pemikiran bid'ah di Nusantara."
+        "name": "Syarh al-Kharidah al-Bahiyyah",
+        "author": "Syeikh Ahmad al-Dardir",
+        "desc": "Kitab tauhid yang menggabungkan pendekatan logika dan sufistik."
       },
       {
-        "name": "Durusul 'Aqaid ad-Diniyyah",
-        "author": "Habib Ahmad bin Zain al-Habsyi",
-        "desc": "Kitab dasar tauhid yang disusun secara sistematis, banyak digunakan di madrasah tingkat Ibtidaiyah."
+        "name": "Husunul Hamidiyyah",
+        "author": "Syeikh Husain Afandi al-Jisr",
+        "desc": "Kitab yang disusun untuk membela akidah Islam dari syubhat pemikiran modern."
       },
       {
-        "name": "Al-Ibanah 'an Ushul ad-Diyanah",
-        "author": "Imam Abul Hasan al-Asy'ari",
-        "desc": "Kitab monumental yang menjelaskan fondasi akidah madzhab Asy'ariyah sebagai respon atas kaum Mu'tazilah."
+        "name": "Al-Hushun al-Mani'ah",
+        "author": "Syeikh Sayyid Muhammad Alwi al-Maliki",
+        "desc": "Karya ulama kontemporer Makkah yang merangkum dasar-dasar akidah Aswaja."
       },
       {
-        "name": "Luma' al-Adillah",
-        "author": "Imamul Haramain al-Juwayni",
-        "desc": "Kitab menengah yang menyajikan argumentasi logis (ilmu kalam) untuk menguatkan akidah Islam."
+        "name": "Bahjatul Wasail",
+        "author": "Syeikh Muhammad bin Umar an-Nawawi",
+        "desc": "Kitab ringkas yang membahas rukun iman, rukun islam, dan ihsan secara terpadu."
       },
       {
-        "name": "Syarah al-Aqaid an-Nasafiyah",
-        "author": "Imam Sa'aduddin at-Taftazani",
-        "desc": "Kitab tingkat tinggi yang menjadi standar dalam studi ilmu kalam di universitas Islam klasik."
+        "name": "As-Sullamul Munauraj",
+        "author": "Syeikh Abdurrahman al-Akhdhari",
+        "desc": "Meski kitab logika (mantiq), sangat krusial digunakan sebagai alat dalam memperkuat argumen tauhid."
       },
       {
-        "name": "Qawa'id al-Aqa'id",
-        "author": "Imam al-Ghazali",
-        "desc": "Bagian dari Ihya Ulumiddin yang dikhususkan untuk membahas pilar-pilar keyakinan seorang muslim."
-      },
-      {
-        "name": "Hasyiyah ad-Dasuqi ala Ummil Barahin",
-        "author": "Syeikh Muhammad ad-Dasuqi",
-        "desc": "Catatan pinggir (hasyiyah) yang sangat mendalam atas Sanusiyah, membahas filsafat ketuhanan."
-      },
-      {
-        "name": "Al-Arba'in fi Ushul ad-Din",
-        "author": "Imam al-Ghazali",
-        "desc": "Berisi 40 prinsip dasar agama yang mencakup tauhid, ibadah, akhlak, dan eskatologi."
-      },
-      {
-        "name": "Mafahim Yajib an Tushahhah",
-        "author": "Sayyid Muhammad bin Alawi al-Maliki",
-        "desc": "Kitab kontemporer yang meluruskan kesalahpahaman dalam masalah tauhid, tawasul, dan syafaat."
-      },
-      {
-        "name": "Al-Farqu baynal Firaq",
-        "author": "Imam Abdul Qahir al-Baghdadi",
-        "desc": "Kitab sejarah pemikiran Islam yang membedakan antara golongan selamat dan golongan menyimpang."
+        "name": "Kubra al-Yaqiniyat al-Kawnia",
+        "author": "Syeikh Said Ramadan al-Buti",
+        "desc": "Kitab akidah modern yang menjawab tantangan ateisme dan sains materialisme."
       }
     ],
     "type": "json_gen",
     "model": "gemini-3-flash-preview",
-    "created_at": "2026-05-03T17:44:11.280Z"
+    "created_at": "2026-05-03T17:44:38.722Z"
   },
   {
     "prompt_hash": "h1001161051",
