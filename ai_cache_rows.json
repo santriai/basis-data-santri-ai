@@ -1,7 +1,7 @@
 [
   {
-    "prompt_hash": "h850677741",
-    "prompt_text": "\n    Berikan informasi detail dan SANGAT LENGKAP untuk kitab: \"Aqidatul Awam\" karya Syeikh Ahmad al-Marzuqi.\n    \n    Output JSON (Wajib):\n    {\n        \"name\": \"Aqidatul Awam\",\n        \"desc\": \"Deskripsi singkat (1 kalimat)\",\n        \"author\": \"Nama Lengkap Pengarang & Gelar\",\n        \"year\": \"Tahun/Abad Lahir/Wafat (Hijriyah & Masehi)\",\n        \"category\": \"Kategori Utama (pilih satu: Tafsir, Hadits, Fiqih, Aqidah, Tasawuf, Nahwu, Sejarah, Lainnya)\",\n        \"longDesc\": \"Deskripsi mendalam tentang isi kitab, metode penulisan, keistimewaan, dan kedudukannya dalam mazhab/ilmu terkait (minimal 3 paragraf).\",\n        \"chapters\": [\n        \"Muqaddimah\",\n        \"Bab 1: [Judul Bab]\",\n        \"Bab 2: [Judul Bab]\",\n        ...\n        \"Khatimah\"\n        ] \n    }\n    ",
+    "prompt_hash": "h1585883219",
+    "prompt_text": "book_detail:Aqidatul Awam",
     "response_json": {
       "name": "Aqidatul Awam",
       "desc": "Kitab nadham (syair) ringkas yang memuat pokok-pokok akidah Islam aliran Ahlussunnah wal Jama'ah bagi masyarakat awam.",
@@ -24,9 +24,9 @@
         "Khatimah (Penutup, Nama Pengarang, dan Jumlah Bait)"
       ]
     },
-    "type": "json_gen",
+    "type": "book_detail",
     "model": "gemini-3-flash-preview",
-    "created_at": "2026-05-03T17:46:12.795Z"
+    "created_at": "2026-05-03T17:46:17.240Z"
   },
   {
     "prompt_hash": "h1001161051",
