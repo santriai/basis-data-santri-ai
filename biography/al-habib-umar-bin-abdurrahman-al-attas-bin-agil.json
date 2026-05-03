@@ -1,0 +1,59 @@
+{
+  "fullName": "Al-Habib Umar bin Abdurrahman al-Attas bin Agil (الحبيب عمر بن عبد الرحمن العطاس)",
+  "titles": "Al-Quthb al-Anfas, Shahibur Ratib, Al-Imam al-Arif Billah",
+  "birthDeath": "992 H - 1072 H (1584 M - 1661 M)",
+  "intro": "Seorang ulama besar dari kaum Alawiyyin di Hadramaut yang dikenal sebagai wali quthb dan pembaharu spiritual. Beliau adalah penyusun wirid masyhur 'Ratib al-Attas' yang diamalkan secara luas oleh umat Islam di seluruh dunia hingga saat ini.",
+  "teachers": [
+    "Al-Habib Abu Bakar bin Salim (Maula Inat)",
+    "Al-Habib Umar bin Isa bin Umar al-Kaff",
+    "Al-Habib Abu Bakar bin Husain bin Syaikh Abu Bakar bin Salim",
+    "Al-Habib Syekh bin Abdullah al-Aydarus",
+    "Al-Habib Abdurrahman bin Agil (Ayah Beliau)"
+  ],
+  "students": [
+    "Al-Habib Ali bin Abdullah al-Attas (Penyusun kitab Al-Qirthas)",
+    "Al-Habib Abdullah bin Alawi al-Haddad (Shahibur Ratib al-Haddad)",
+    "Al-Habib Isa bin Muhammad al-Habasyi",
+    "Al-Habib Ahmad bin Hasyim al-Habasyi",
+    "Al-Habib Muhammad bin Ahmad bin Husein al-Aydarus"
+  ],
+  "works": [
+    "Ratib al-Attas (Al-Aziz al-Mani')",
+    "Kumpulan Doa dan Adzkar",
+    "Safinah an-Najah (Risalah Spiritual)",
+    "Ijazah-Ijazah Keilmuan dan Thariqah",
+    "Untaian Hikmah dan Mauizhah (Tercatat dalam Al-Qirthas)"
+  ],
+  "timeline": [
+    {
+      "year": "992 H",
+      "event": "Lahir di desa Lisk, dekat kota Inat, Hadramaut, Yaman."
+    },
+    {
+      "year": "1040 H",
+      "event": "Menetap di Huraidzah dan mulai menyebarkan dakwah serta menyusun Ratib al-Attas."
+    },
+    {
+      "year": "1072 H",
+      "event": "Wafat pada malam Kamis, 23 Rabi'ul Akhir di desa Nafun dan dimakamkan di Huraidzah."
+    }
+  ],
+  "narrativeSections": [
+    {
+      "title": "Kelahiran & Masa Kecil",
+      "content": "Al-Habib Umar bin Abdurrahman al-Attas lahir dalam lingkungan keluarga yang sangat religius di Lisk, Hadramaut. Meskipun beliau kehilangan penglihatan lahiriahnya sejak kecil, Allah SWT menganugerahkan Bashirah (penglihatan hati) yang luar biasa. Beliau tumbuh di bawah bimbingan langsung ayahnya dan lingkungan keilmuan Hadramaut yang kental dengan tradisi Ba 'Alawi."
+    },
+    {
+      "title": "Rihlah Ilmiah (Pendidikan & Guru)",
+      "content": "Beliau menempuh pendidikan dengan melakukan perjalanan ke berbagai pusat ilmu di Hadramaut. Guru utamanya yang paling berpengaruh adalah Al-Habib Abu Bakar bin Salim dari Inat. Dari para gurunya, beliau tidak hanya mengambil ilmu syariat (fiqh dan hadits), tetapi juga mendalami rahasia tasawuf dan thariqah Alawiyyah, hingga mencapai derajat kemuliaan spiritual yang tinggi."
+    },
+    {
+      "title": "Karya & Peninggalan",
+      "content": "Karya beliau yang paling monumental adalah 'Ratib al-Attas'. Litani dzikir ini disusun sebagai 'perisai' bagi penduduk Huraidzah saat itu dari berbagai ancaman fisik maupun spiritual. Peninggalan lainnya adalah transmisi keilmuan yang melahirkan ulama-ulama besar seperti Al-Habib Abdullah bin Alawi al-Haddad yang menganggap beliau sebagai salah satu murobbi spiritual utamanya."
+    },
+    {
+      "title": "Wafat & Makam",
+      "content": "Beliau wafat pada tahun 1072 H di Nafun saat dalam perjalanan dakwah. Jenazahnya dibawa ke Huraidzah untuk dimakamkan di sana. Hingga hari ini, makam beliau di Huraidzah menjadi tujuan ziarah bagi ribuan umat Islam dari berbagai penjuru dunia, terutama saat pelaksanaan Haul beliau."
+    }
+  ]
+}
