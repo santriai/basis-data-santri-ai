@@ -1,0 +1,67 @@
+{
+  "fullName": "Syekh Ahmad bin Muhammad bin Abd al-Karim bin Atha'illah al-Judhami al-Iskandari (تاج الدين أبو الفضل أحمد بن محمد بن عبد الكريم بن عطاء الله الإسكندري)",
+  "titles": "Tajuddin, Abu al-Fadl, Qutubul Arifin, Mursyid ats-Tsalits li ath-Thariqah asy-Syadziliyah",
+  "birthDeath": "± 648 H - 709 H (1250 M - 1309 M)",
+  "intro": "Beliau adalah seorang ulama besar, faqih mazhab Maliki, dan mursyid ketiga dalam rantai silsilah Thariqah Syadziliyah. Sosoknya sangat monumental karena berhasil memadukan antara kedalaman syariat dan kejernihan hakikat melalui karya-karyanya yang abadi.",
+  "teachers": [
+    "Abu al-Abbas al-Mursi (Mursyid Utama)",
+    "Nasiruddin bin al-Munayyir",
+    "Syarafuddin al-Dimyathi",
+    "Al-Abraquhi",
+    "Al-Muzaki"
+  ],
+  "students": [
+    "Taqiuddin as-Subki",
+    "Abu al-Hasan al-Qarafi",
+    "Dawud bin Bakhila",
+    "Syihabuddin bin Lulun",
+    "Ibnu Sultan"
+  ],
+  "works": [
+    "Al-Hikam al-Atha'iyyah",
+    "Lata'if al-Minan",
+    "At-Tanwir fi Isqat at-Tadbir",
+    "Miftah al-Falah wa Misbah al-Arwah",
+    "Taj al-Arus al-Hawi li Tahdhib an-Nufus"
+  ],
+  "timeline": [
+    {
+      "year": "648 H",
+      "event": "Lahir di Iskandariyah (Alexandria), Mesir, dari keluarga yang taat beragama dan ahli ilmu."
+    },
+    {
+      "year": "674 H",
+      "event": "Mengalami transformasi spiritual setelah berguru kepada Abu al-Abbas al-Mursi, murid utama Imam asy-Syadzili."
+    },
+    {
+      "year": "686 H",
+      "event": "Menjadi pemimpin (Mursyid) ketiga dalam Thariqah Syadziliyah setelah wafatnya Abu al-Abbas al-Mursi."
+    },
+    {
+      "year": "707 H",
+      "event": "Terlibat dalam diskusi dan perdebatan ilmiah mengenai masalah akidah dan tasawuf dengan Ibnu Taimiyah di Kairo."
+    },
+    {
+      "year": "709 H",
+      "event": "Wafat di Madrasah al-Mansuriyah, Kairo, dan dimakamkan di pemakaman Qarafah."
+    }
+  ],
+  "narrativeSections": [
+    {
+      "title": "Kelahiran & Masa Kecil",
+      "content": "Ibnu Atha'illah lahir di Iskandariyah dalam lingkungan keluarga ulama. Kakeknya adalah seorang pakar fiqih Maliki yang sempat menentang paham tasawuf. Hal ini membuat Ibnu Atha'illah muda tumbuh dengan penguasaan ilmu lahir (eksoterik) yang sangat kuat sebelum akhirnya ia mendalami ilmu batin (esoterik)."
+    },
+    {
+      "title": "Rihlah Ilmiah (Pendidikan & Guru)",
+      "content": "Pada awal masa menuntut ilmunya, ia adalah seorang penentang tasawuf. Namun, setelah bertemu dengan Abu al-Abbas al-Mursi pada tahun 674 H, pandangannya berubah total. Ia menyadari bahwa tasawuf sejati tidak bertentangan dengan Al-Qur'an dan Sunnah. Selain berguru secara spiritual, ia juga mendalami hadits dan fiqih kepada ulama-ulama besar seperti Nasiruddin bin al-Munayyir."
+    },
+    {
+      "title": "Karya & Peninggalan",
+      "content": "Karyanya yang paling fenomenal, 'Al-Hikam', dianggap sebagai 'Injil-nya umat Islam' oleh sebagian ulama karena kedalaman hikmahnya. Kitab ini menjadi rujukan wajib dalam pembersihan jiwa (Tazkiyatun Nafs). Selain itu, 'Lata'if al-Minan' merupakan sumber sejarah terpenting mengenai awal mula Thariqah Syadziliyah dan biografi para pendirinya."
+    },
+    {
+      "title": "Wafat & Makam",
+      "content": "Ibnu Atha'illah wafat pada tahun 709 H di Kairo dalam usia sekitar 60 tahun. Jenazahnya dishalatkan di Masjid Al-Azhar dengan jamaah yang sangat banyak. Ia dimakamkan di Pemakaman Qarafah, di kaki bukit Muqattam, Mesir. Hingga saat ini, makamnya menjadi tujuan ziarah bagi para pencinta ilmu dan penempuh jalan spiritual dari seluruh dunia."
+    }
+  ]
+}
