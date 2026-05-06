@@ -1,0 +1,18 @@
+{
+  "name": "Tijanud Darari",
+  "desc": "Sebuah kitab syarah (komentar) ringkas namun padat mengenai dasar-dasar ilmu tauhid berdasarkan manhaj Ahlus Sunnah wal Jama'ah.",
+  "author": "Al-Imam Al-'Allamah Asy-Syeikh Muhammad Nawawi bin Umar al-Bantani al-Jawi (Sayyidul 'Ulama al-Hijaz)",
+  "year": "Lahir: 1230 H / 1813 M - Wafat: 1314 H / 1897 M",
+  "category": "Aqidah",
+  "longDesc": "Tijanud Darari merupakan kitab syarah (penjelasan) atas risalah kecil dalam ilmu tauhid karya Syekh Ibrahim al-Baijuri. Kitab ini disusun secara sistematis oleh Syekh Nawawi al-Bantani untuk memudahkan para penuntut ilmu tingkat pemula (mubtadiin) dalam memahami konsep ketuhanan melalui kerangka Sifat Dua Puluh. Sebagai salah satu karya ulama besar Nusantara yang mengajar di Masjidil Haram, kitab ini memiliki pengaruh yang sangat luas di dunia Islam, khususnya di wilayah Asia Tenggara, dan menjadi kurikulum tetap di berbagai pondok pesantren.\n\nMetodologi penulisan yang digunakan dalam kitab ini adalah penjelasan per kata atau per kalimat dari teks asli (matan). Syekh Nawawi menguraikan tiga klasifikasi sifat yang wajib dipahami bagi setiap mukallaf terhadap Allah SWT dan para Rasul-Nya, yaitu sifat wajib, sifat mustahil, dan sifat jaiz (wenang). Penjelasan di dalamnya berlandaskan pada madzhab Asy'ariyah dan Maturidiyah dengan menyertakan dalil naqli (teks Al-Qur'an dan Hadits) serta dalil aqli (logika rasional) yang mudah dicerna oleh orang awam maupun santri pemula.\n\nKeistimewaan utama Tijanud Darari terletak pada efisiensi bahasanya; meskipun ringkas, kitab ini mampu mencakup esensi akidah yang dibutuhkan untuk menjaga sahnya iman seseorang. Di bagian penutup, Syekh Nawawi juga menambahkan informasi mengenai silsilah nasab Nabi Muhammad SAW hingga Adnan, nama-nama putra dan putri beliau, serta istri-istri beliau sebagai bentuk penghormatan dan pengenalan sejarah bagi umat. Kitab ini berfungsi sebagai fondasi teologis yang sangat kuat sebelum seorang penuntut ilmu beralih ke kitab tauhid yang lebih filosofis dan mendalam.",
+  "chapters": [
+    "Muqaddimah",
+    "Bab 1: Sifat-Sifat Wajib bagi Allah (Sifat 20)",
+    "Bab 2: Sifat-Sifat Mustahil bagi Allah",
+    "Bab 3: Sifat Jaiz (Wenang) bagi Allah",
+    "Bab 4: Sifat-Sifat Wajib bagi para Rasul",
+    "Bab 5: Sifat-Sifat Mustahil bagi para Rasul",
+    "Bab 6: Sifat Jaiz (Wenang) bagi para Rasul",
+    "Khatimah: Nasab Nabi Muhammad SAW dan Keluarga Beliau"
+  ]
+}
