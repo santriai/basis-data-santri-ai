@@ -1,18 +1,23 @@
 {
   "name": "Tijanud Darari",
-  "desc": "Kitab syarah (penjelasan) ringkas namun padat terhadap risalah tauhid karya Syekh Ibrahim al-Bajuri yang membahas pokok-pokok akidah Ahlussunnah wal Jama'ah.",
-  "author": "Syekh Muhammad Nawawi bin Umar al-Bantani al-Jawi (Sayyid Ulama al-Hijaz)",
-  "year": "1230-1314 H / 1813-1897 M",
+  "desc": "Sebuah kitab syarah (penjelasan) ringkas namun mendalam atas Risalah Tauhid karya Imam Ibrahim al-Bajuri yang membahas pokok-pokok aqidah Ahlussunnah wal Jama'ah.",
+  "author": "Syekh Muhammad Nawawi bin Umar al-Bantani (Sayyidul 'Ulama al-Hijaz)",
+  "year": "1230 H - 1314 H / 1813 M - 1897 M",
   "category": "Aqidah",
-  "longDesc": "Tijanud Darari adalah salah satu karya monumental Syekh Nawawi al-Bantani yang berfungsi sebagai syarah atau penjelasan atas kitab 'Risalah fi 'Ilmi at-Tawhid' karya Syekh Ibrahim al-Bajuri. Kitab ini ditulis dengan gaya bahasa yang sederhana namun sarat makna, menjadikannya rujukan utama bagi para santri tingkat pemula (mubtadi) di berbagai pondok pesantren di Indonesia dan madrasah di dunia Melayu untuk memahami fondasi keimanan. Penulisannya dilatarbelakangi oleh kebutuhan akan penjelasan yang jernih terhadap konsep-konsep ketuhanan yang sering kali sulit dipahami dalam teks aslinya.\n\nFokus utama pembahasan dalam kitab ini adalah konsep 'Sifat Dua Puluh', yaitu pengelompokan sifat-sifat Allah ke dalam kategori wajib, mustahil, dan jaiz. Syekh Nawawi menjelaskan setiap sifat dengan menyertakan dalil naqli yang bersumber dari Al-Qur'an dan Hadits, serta dalil aqli yang menggunakan logika rasional untuk membuktikan keberadaan dan keagungan Allah SWT. Selain membahas sifat ketuhanan, kitab ini juga mengulas secara mendalam mengenai sifat-sifat yang berkaitan dengan para Rasul, mencakup apa yang wajib, mustahil, dan diperbolehkan (jaiz) bagi mereka sebagai pembawa risalah Tuhan.\n\nKeistimewaan Tijanud Darari terletak pada metodologi penulisan Syekh Nawawi yang mampu mensintesis pemikiran teologis aliran Asy'ariyah secara praktis. Kitab ini tidak hanya menyajikan doktrin, tetapi juga membimbing pembaca untuk menginternalisasi nilai-nilai tauhid dalam kehidupan sehari-hari agar terhindar dari pemahaman yang menyimpang. Kedudukannya dalam khazanah literatur Islam Nusantara sangat fundamental, sering kali dijadikan kurikulum wajib sebelum seorang penuntut ilmu melanjutkan ke jenjang kitab tauhid yang lebih kompleks seperti Fathul Majid atau Syarah Ummul Barahin.",
+  "longDesc": "Kitab Tijanud Darari (lengkapnya: Tijan al-Darari 'ala Risalah al-Bajuri fi 'Ilm al-Tawhid) merupakan literatur klasik dalam disiplin ilmu Tauhid yang sangat populer di kalangan pesantren di Nusantara. Kitab ini merupakan syarah (penjelasan) atas naskah ringkas (matan) karya Imam Ibrahim al-Bajuri. Syekh Nawawi al-Bantani menyusun kitab ini dengan bahasa yang lugas namun padat, bertujuan untuk mempermudah para penuntut ilmu tingkat pemula (mubtadi) dalam memahami fondasi keyakinan Islam berdasarkan mazhab Asy'ariyah.\n\nSecara metodologis, Syekh Nawawi menguraikan konsep Sifat 20 bagi Allah SWT yang mencakup sifat-sifat yang wajib, mustahil, dan jaiz bagi-Nya, serta sifat-sifat yang terkait dengan para Rasul. Setiap pembahasan dimulai dengan definisi, pembagian kategori sifat (Nafsiyah, Salbiyah, Ma'ani, dan Ma'nawiyah), hingga penyertaan dalil-dalil aqli (logika) dan naqli (teks Al-Qur'an dan Hadits). Penulis juga memberikan penekanan pada aspek 'Aqidatul Iman 50' (50 simpul keimanan) yang menjadi standar pemahaman aqidah bagi kaum muslimin awam hingga santri menengah.\n\nKedudukan kitab ini sangat strategis dalam kurikulum pendidikan Islam tradisional karena berfungsi sebagai jembatan sebelum mempelajari kitab-kitab teologi yang lebih kompleks seperti Ummul Barahin atau Jawharatut Tauhid. Keistimewaan Tijanud Darari terletak pada keberkahan penulisnya yang dikenal sebagai ulama besar dari Banten yang diakui otoritasnya di Mekah, serta kemampuannya dalam menyederhanakan istilah-istilah teologis yang rumit menjadi penjelasan yang mudah dicerna tanpa mengurangi bobot substansi ilmiahnya.",
   "chapters": [
-    "Muqaddimah (Pendahuluan dan Basmalah)",
-    "Bab 1: Penjelasan Sifat-Sifat Wajib bagi Allah (Nafsiyah, Salbiyah, Ma'ani, Ma'nawiyah)",
-    "Bab 2: Penjelasan Sifat-Sifat Mustahil bagi Allah",
-    "Bab 3: Penjelasan Sifat Jaiz bagi Allah",
-    "Bab 4: Penjelasan Sifat-Sifat Wajib bagi para Rasul",
-    "Bab 5: Penjelasan Sifat-Sifat Mustahil bagi para Rasul",
-    "Bab 6: Penjelasan Sifat Jaiz bagi para Rasul",
-    "Khatimah (Penutup: Ringkasan Iman dan Silsilah Nasab Nabi Muhammad SAW)"
+    "Muqaddimah",
+    "Bab 1: Definisi Hukum Aqli, Syar'i, dan 'Adi",
+    "Bab 2: Sifat Wajib Allah (Nafsiyah)",
+    "Bab 3: Sifat Wajib Allah (Salbiyah)",
+    "Bab 4: Sifat Wajib Allah (Ma'ani)",
+    "Bab 5: Sifat Wajib Allah (Ma'nawiyah)",
+    "Bab 6: Sifat-sifat Mustahil bagi Allah SWT",
+    "Bab 7: Sifat Jaiz bagi Allah SWT",
+    "Bab 8: Sifat-sifat Wajib bagi para Rasul",
+    "Bab 9: Sifat-sifat Mustahil bagi para Rasul",
+    "Bab 10: Sifat Jaiz bagi para Rasul",
+    "Bab 11: Penjelasan Aqidah 50 (Simpul Keimanan)",
+    "Khatimah: Ringkasan dan Penutup"
   ]
 }
